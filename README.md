@@ -6,7 +6,7 @@ Las primeras tres imágenes corresponden a la terminal, donde se inician los com
   Inicio de la terminal. Preparación del entorno.
 
 - **2.png**  
-  Ejecución del primer comando.
+  Terminal descarga
 
 - **3.png**  
   Confirmación de que el entorno está correctamente configurado.
@@ -17,22 +17,10 @@ Las primeras tres imágenes corresponden a la terminal, donde se inician los com
 
 ## Proceso Visual (4.png - 29.png)
 
-A continuación se muestran las capturas que reflejan la interfaz y resultados a medida que avanza el proceso:
+A continuación se muestran las capturas que reflejan los ejercicios del moodle:
 
 - **4.png a 10.png**  
   Configuración inicial y carga de recursos.
-
-- **11.png a 15.png**  
-  Procesamiento de datos y respuestas parciales.
-
-- **16.png a 20.png**  
-  Visualización de resultados y ajustes intermedios.
-
-- **21.png a 25.png**  
-  Validación final y pruebas de funcionamiento.
-
-- **26.png a 29.png**  
-  Resultado final y confirmación de éxito.
 
 ![Paso 4](4.png)
 ![Paso 5](5.png)
